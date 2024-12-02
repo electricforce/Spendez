@@ -1,0 +1,67 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(/img/image.png);
+} 
+
+.alpha {
+    display: flex;
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.contenedor {
+    flex: 1;
+    box-sizing: border-box;
+}    
+
+.nav-bar {
+    display: block;
+}
+
+.tabla {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.form {
+    height: auto;
+    margin: 20px;
+}
+
+.from-presupuesto {
+    width: 100%;
+    max-width: 600px;
+    min-width: 300px;
+    height: auto;
+    max-height: 400px;
+    border: 5px solid #000000;
+    padding: 10px 20px;
+    background-color: #314e46;
+    color: white;
+    border-radius: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.btn-eliminar {
+    background-color: rgb(159, 130, 130);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-eliminar:hover {
+    background-color: darkred;
+}
+
+.btn-eliminar:active {
+    background-color: darkred;
+    transform: scale(0.98);
+}

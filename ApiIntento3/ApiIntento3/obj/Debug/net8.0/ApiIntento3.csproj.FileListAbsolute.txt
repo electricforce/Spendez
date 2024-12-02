@@ -1,0 +1,510 @@
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.exe
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.deps.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.runtimeconfig.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.pdb
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.AssemblyReference.cache
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfoInputs.cache
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfo.cs
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.sourcelink.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.ApiIntento3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiIntento3.props
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiIntento3.props
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiIntento3.props
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\scopedcss\bundle\ApiIntento3.styles.css
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiInten.B1E04164.Up2Date
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\refint\ApiIntento3.dll
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.pdb
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.genruntimeconfig.cache
+C:\Users\Joseph Daniel\Desktop\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ref\ApiIntento3.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.exe
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.deps.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.runtimeconfig.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.pdb
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.AssemblyReference.cache
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfoInputs.cache
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfo.cs
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.CoreCompileInputs.cache
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.sourcelink.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.ApiIntento3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiIntento3.props
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiIntento3.props
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiIntento3.props
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\scopedcss\bundle\ApiIntento3.styles.css
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiInten.B1E04164.Up2Date
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\refint\ApiIntento3.dll
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.pdb
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.genruntimeconfig.cache
+C:\Users\Analía\Escritorio\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ref\ApiIntento3.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.Development.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\appsettings.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.exe
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.deps.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.runtimeconfig.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ApiIntento3.pdb
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Core.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Azure.Identity.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Humanizer.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.ClientModel.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.CodeDom.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Text.Json.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.AssemblyReference.cache
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfoInputs.cache
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.AssemblyInfo.cs
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.csproj.CoreCompileInputs.cache
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cs
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.sourcelink.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.build.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.development.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.ApiIntento3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiIntento3.props
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiIntento3.props
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiIntento3.props
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\scopedcss\bundle\ApiIntento3.styles.css
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiInten.B1E04164.Up2Date
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\refint\ApiIntento3.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.pdb
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ApiIntento3.genruntimeconfig.cache
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\obj\Debug\net8.0\ref\ApiIntento3.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\DevOne.Security.Cryptography.BCrypt.dll
+C:\proyectos\SemestralDesarrollos\Código\ApiIntento3\ApiIntento3\bin\Debug\net8.0\BCrypt.Net-Next.dll

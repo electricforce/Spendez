@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabla Editable</title>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="css/GestionCategorias.css"> 
+</head>
+<body>
+
+  <div class="nav-bar" id="navbar-container"></div>
+
+  <div class="alpha">
+    <div class="contenedor">
+        <button onclick="window.location.href='tablapresupuesto.html'" class="btn-regresar">Regresar a Tabla Presupuesto</button>
+
+      <h1 class="text-center">Gestión de Categorías</h1>
+      <br>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          
+          <h3>Categorías Existentes</h3>
+          <table class="table table-bordered table-striped" id="tabla">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre de la Categoría</th>
+                <th>Descripción</th>
+                <th>Monto Estimado</th>
+                <th>Acción</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+            </tbody>
+          </table>
+
+          <h3>Agregar Nueva Categoría</h3>
+          <div class="from-contenedor">
+            <form id="categoria-form">
+              
+      
+              <label for="nombreCategoria">Nombre de la Categoría:</label>
+              <input type="text" id="nombreCategoria" name="nombreCategoria" required><br><br>
+      
+              <label for="descripcion">Descripción:</label>
+              <input type="text" id="descripcion" name="descripcion" required><br><br>
+      
+              <label for="montoEstimado">Monto Estimado:</label>
+              <input type="number" id="montoEstimado" name="montoEstimado" required step="0.01"><br><br>
+      
+              <button type="submit">Agregar Categoría</button>
+            </form>
+
+          </div>
+
+
+          <br>
+          <br>
+          <div id="resultado"></div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+  <div class="alpha">
+    <div class="contenedor">
+      <footer>
+        <div class="footer-content">
+            <p>&copy; 2024@. Todos los derechos reservados.</p>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <script src="JS/GestionCategorias.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="js/navbar.js"></script>
+</body>
+</html>

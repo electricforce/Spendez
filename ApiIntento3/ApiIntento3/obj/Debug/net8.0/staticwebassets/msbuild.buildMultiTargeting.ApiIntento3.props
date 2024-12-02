@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiIntento3.props" />
+</Project>

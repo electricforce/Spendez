@@ -1,0 +1,171 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #eef2f3;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100%;
+  background-color: #314e46;
+  padding-top: 20px;
+  z-index: 1000;
+}
+
+.btn-regresar {
+  background-color: #314e46;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-bottom: 15px;
+}
+
+.btn-regresar:hover {
+  background-color: #3c5f54;
+  transform: scale(1.05);
+}
+
+.btn-regresar:active {
+  transform: scale(0.98);
+}
+
+
+.alpha {
+  display: flex;
+  margin-left: 220px;
+  padding: 20px;
+}
+
+.contenedor {
+  flex: 1;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  color: #314e46;
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #314e46;
+  color: white;
+  text-transform: uppercase;
+}
+
+td {
+  color: #2c3e50;
+}
+
+td:hover {
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease;
+}
+
+.btnCategoria {
+  background-color: #314e46;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btnCategoria:hover {
+  background-color: #3c5f54;
+  transform: scale(1.05);
+}
+
+footer {
+  background-color: #314e46;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.from-contenedor {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px 20px;
+  background-color: #3c5f54;
+  border-radius: 8px;
+  border: 1px solid #1a2521;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+input[type="text"], input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+input[type="text"]:focus, input[type="number"]:focus {
+  outline: none;
+  border-color: #314e46;
+  box-shadow: 0 0 5px rgba(49, 78, 70, 0.3);
+}
+
+@media (max-width: 500px) {
+  label {
+    font-size: 13px;
+  }
+
+  input[type="text"], input[type="number"] {
+    font-size: 13px;
+  }
+}
+
+footer p {
+  font-size: 14px;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+footer p:hover {
+  color: #f39c12;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+

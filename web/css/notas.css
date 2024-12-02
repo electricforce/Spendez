@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tabla h2, p {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+.tabla ul, li {
+    list-style: none;
+}
+
+.tabla ul {
+    overflow: hidden;
+    padding: 3em;
+}
+
+.tabla ul li a {
+    text-decoration: none;
+    color: #000;
+    background-image: url(/img/nota.png);
+    display: block;
+    height: 10em;
+    width: 10em;
+    padding: 1em;
+}
+
+.tabla ul li {
+    margin: 1em;
+    float: left;
+}
+
+.tablaul li h2 {
+    font-size: 140%;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.tabla ul li p {
+    font-family: "Reenie Beanie", arial, sans-serif;
+    font-size: 180%;
+}
+
+.content-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historial de Gastos</title>
+  <link rel="stylesheet" href="/css/Historial.css">
+</head>
+
+<body>
+  <div class="nav-bar" id="navbar-container"></div>
+  <div class="alpha">
+    <div class="contenedor">
+      <h1>Historial de Gastos</h1>
+
+      <div class="formulario">
+        <div class="formulario-caja">
+          <h2>Agregar Gasto</h2>
+          <form id="gasto-form">
+            <label for="descripcion">Descripción:</label>
+            <input type="text" id="descripcion" name="descripcion" required><br><br>
+
+            <label for="monto">Monto:</label>
+            <input type="text" id="monto" name="monto" required step="0.01"><br><br>
+
+            <label for="fecha">Fecha:</label>
+            <input type="date" id="fecha" name="fecha" required><br><br>
+
+            <button type="submit" class="btn-agregar">Agregar Gasto</button>
+          </form>
+        </div>
+    </div>
+
+    
+    <div class="historial">
+      <table id="presupuestos-table">
+        <thead>
+          <tr>
+            <th>Descripción</th>
+            <th>Monto</th>
+            <th>Fecha</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+      </table>
+    </div>
+    </div>
+  </div>
+  
+
+  <script src="/js/Historial.js"></script>
+  <script src="js/navbar.js"></script>
+</body>
+
+
+</html>

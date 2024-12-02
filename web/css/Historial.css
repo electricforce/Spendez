@@ -1,0 +1,143 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #899a95;
+}
+
+
+
+.alpha {
+  display: flex;
+  margin-left: 220px;
+  padding: 20px;
+}
+
+.contenedor {
+  flex: 1;
+  box-sizing: border-box;
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #314e46;
+  margin-bottom: 20px;
+}
+
+/* Caja para el formulario */
+.formulario-caja {
+  background-color: #314e46  ;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.formulario-caja h2 {
+  font-size: 1.5rem;
+  color: #314e46;
+  margin-bottom: 20px;
+}
+
+/* Estilo del formulario */
+input[type="text"],
+input[type="date"] {
+  width: 80%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="date"]:focus {
+  border-color: #314e46;
+  box-shadow: 0 0 5px rgba(49, 78, 70, 0.5);
+  outline: none;
+}
+
+/* Estilo para el botón */
+button.btn-agregar {
+  background-color: #314e46;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button.btn-agregar:hover {
+  background-color: #3c5f54;
+  transform: scale(1.05);
+}
+
+/* Estilo de la tabla */
+.historial {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  font-size: 14px;
+  color: #2c3e50;
+}
+
+th {
+  background-color: #314e46;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+td {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+td:hover {
+  background-color: #e8f4f1;
+  transition: background-color 0.3s ease;
+}
+
+tr:nth-child(even) td {
+  background-color: #f7f7f7;
+}
+
+tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
+
+tr:hover td {
+  background-color: #e2f3e0;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+caption {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #314e46;
+}

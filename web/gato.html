@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregar Gasto</title>
+    <link rel="stylesheet" href="/css/gato.css">
+</head>
+<body>
+    <h1>Formulario para Agregar Gasto</h1>
+
+    <form id="gasto-form">
+        <label for="descripcion">Descripción:</label>
+        <input type="text" id="descripcion" name="descripcion" required><br><br>
+      
+        <label for="monto">Monto:</label>
+        <input type="text" id="monto" name="monto" required step="0.01"><br><br>
+      
+        <label for="fecha">Fecha:</label>
+        <input type="date" id="fecha" name="fecha" required><br><br>
+      
+      
+        <button type="submit">Agregar Gasto</button>
+    </form>
+      
+    <!-- Contenedor de alerta -->
+    <div id="alert-container" class="d-none">
+       <div id="alert-message"></div>
+    </div>
+
+    <script src="/js/gato.js"></script>
+</body>
+</html>

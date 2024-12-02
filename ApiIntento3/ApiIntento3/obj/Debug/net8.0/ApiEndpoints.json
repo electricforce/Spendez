@@ -1,0 +1,441 @@
+[
+  {
+    "ContainingType": "ApiIntento3.Controllers.GastosController",
+    "Method": "ActualizarGasto",
+    "RelativePath": "Actualizar Gasto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idGasto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idPreCat",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "monto",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "ActualizarCategoria",
+    "RelativePath": "ActualizarCategoria",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdCategoria",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdPresupuesto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreCategoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescripcionCategoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MontoCategoria",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "AgregarGastoSinCategoria",
+    "RelativePath": "Agregar Gasto Sin Categoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "monto",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "AgregarCategoria",
+    "RelativePath": "AgregarCategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "ApiIntento3.Controllers.presupuestoController\u002BCategoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.GastosController",
+    "Method": "AgregarGasto",
+    "RelativePath": "AgregarGasto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCat",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "monto",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.GastosController",
+    "Method": "EliminarGasto",
+    "RelativePath": "Eliminar Gasto",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "EliminarCategoria",
+    "RelativePath": "EliminarCategoria",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCategoria",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idPresupuesto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "EliminarPresupuesto",
+    "RelativePath": "EliminarPresupuesto",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPresupuesto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.GastosController",
+    "Method": "ObtenerGastosPorCategoria",
+    "RelativePath": "Gastos por categoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCategoria",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.GastosController",
+    "Method": "ObtenerGastosPorUsuario",
+    "RelativePath": "GastosUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.graficaController",
+    "Method": "GraficaPresupuestoCategoria",
+    "RelativePath": "GraficaPresupuestoCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idPresupuesto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "IngresarPresupuestoS",
+    "RelativePath": "IngresarPresupuesto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "presupuesto",
+        "Type": "ApiIntento3.Controllers.presupuestoController\u002BPresupuestoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "ObtenerGastosSinCategoria",
+    "RelativePath": "Insertar Gastos Sin Categor\u00EDa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.UsuarioController",
+    "Method": "LoguearUsuario",
+    "RelativePath": "loguearUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomIniU",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.UsuarioController",
+    "Method": "MostrarIDUsuario",
+    "RelativePath": "Mostrar ID del Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomIniU",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "ObtenerCategoriasPorPresupuesto",
+    "RelativePath": "ObtenerCategorias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPresupuesto",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "ObtenerCategorias_",
+    "RelativePath": "ObtenerCategorias_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPresupuesto",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.UsuarioController",
+    "Method": "RegistrarUsuario",
+    "RelativePath": "Registrar Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "passwordU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellidoU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomIniU",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiIntento3.Controllers.presupuestoController",
+    "Method": "VisualizarPresupuestos",
+    "RelativePath": "VisualizarPresupuestos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

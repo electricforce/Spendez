@@ -1,0 +1,6 @@
+@ApiIntento3_HostAddress = http://localhost:5004
+
+GET {{ApiIntento3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
